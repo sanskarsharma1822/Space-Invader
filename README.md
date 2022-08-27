@@ -22,14 +22,14 @@ The player defeats an alien, and earns points, by shooting it with the laser can
 
 ## Run Locally
 
-Make sure you have Python installed on your device.
+Make sure you have <a href="https://www.python.org/downloads/">Python</a> installed on your device.
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/sanskarsharma1822/Space-Invader.git
 ```
- 
+
 You can run the program in the command prompt / terminal.
 
 ```bash
